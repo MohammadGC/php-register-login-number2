@@ -3,5 +3,5 @@ This project is a very simple template used for login and register. And the html
 
 ********
 If you have any questions or problems, you can send a message to this ID in Telegram:
-@Mr_hello
+mra_hello
 ********
