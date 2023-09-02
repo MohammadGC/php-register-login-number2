@@ -1,0 +1,13 @@
+ 
+************ Read Me (index.php) ************
+
+1- The beating heart of the project ==> index.php
+2- Whatever is going to happen
+3- Like:
+4- Routing system
+5- The helpers that are supposed to be defined in the project
+6- Site settings
+7- Routes to be reserved.
+8- Actually, it redirects the user to a part of the project
+9- Therefore, a system should be created so that the user is directed to this page and from this page to other parts of the project, and is not allowed to enter other pages.
+10- In order to build this system, we will use htaccess.

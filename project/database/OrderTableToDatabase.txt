@@ -1,0 +1,7 @@
+اولین جدول در تمامی پروژه ها :users
+categories  
+posts
+banners
+comments
+menus
+settings تنظیمات سایت
